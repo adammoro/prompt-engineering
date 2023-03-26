@@ -13,7 +13,7 @@ timestamp = now.strftime("%Y-%m-%d_%H-%M-%S")
 
 # API endpoint and authentication
 api_endpoint = 'https://api.openai.com/v1/completions'
-api_key = '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'
+api_key = 'YOUR_OPENAI_API_KEY_HERE'
 headers = {
     "Content-Type": "application/json",
     "Authorization": f"Bearer {api_key}"
