@@ -1,6 +1,8 @@
-# Write New Intro Text per State #
+# Rewrite Text per State #
 
-This script takes the current intro text on a web page and rewrites it to be unique per each of the 50 states in the US. This is a proof-of-concept for a user experience optimization on cookie cutter pages with highly duplicative copy.
+This script takes the source text provided (e.g. some text from your web page) and rewrites it to be unique per each of the 50 states in the US. It does so by essentially writing it in the style of someone from that state. 
+
+This is a proof-of-concept for a user experience optimization on cookie cutter pages with highly duplicative copy. 
 
 ## OpenAI API Parameter Definitions ##
 
