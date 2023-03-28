@@ -1,6 +1,8 @@
-### Desired Format ###
+# Desired Format #
 
-To get a response in a certain format while also instructing the AI to provide specific information, use the following template:
+You can have GPT models return responses with information formatted the way you want. This is just one example provided by OpenAI.
+
+## Prompt ##
 
 ```
 Read the following text and extract all the important information. 
@@ -15,7 +17,7 @@ Important Topic 2: -||-
 Important Topic 3: <comma_separated_list_of_important_topic_3_things>
 ```
 
-## Example Usage ##
+### Example Usage ###
 
 Here's an example of how you can use this template. Notice the "Desired format" section has new names listed. Those are named based on the type of infromation you want extracted from the text. You can list as many as you want to pull any type of information out of the text.
 
