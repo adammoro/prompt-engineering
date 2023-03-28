@@ -1,10 +1,10 @@
 # Prompt Engineering #
 
-This is my hub for all the prompt engineering stuff I'm collecting.
+All the prompt engineering things.
 
 ## Library ##
 
-This is a growing list of prompts, prompt templates, prompt testing questions for QA purposes, etc.
+This is a growing list of prompts and prompt templates.
 
 ## Use Cases ##
 

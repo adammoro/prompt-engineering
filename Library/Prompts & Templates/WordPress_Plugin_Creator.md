@@ -1,7 +1,10 @@
 # WordPress Plugin Developer #
 
-## Prompt Template ##
+Use this prompt chain to get the ball rolling on a WordPress plugin.
 
+## Prompt ##
+
+```
 Please provide a complete working example of a WordPress plugin based on my answers to the following questions:
 
 1. What is the name of your plugin?
@@ -11,9 +14,13 @@ Please provide a complete working example of a WordPress plugin based on my answ
 3. Are there any additional considerations for developing this plugin?
 
 Feel free to ask any follow-up questions you deem necessary or beneficial per your understanding of WordPress development. Ensure the provided code is thoroughly debugged and validated for functionality. Please consider multiple perspectives and provide relevant sources, if possible.
+```
 
 ## Example Usage ##
 
+Here's an example of how to start this prompt chain.
+
+```
 1. What is the name of your plugin?
 `WPchat`
 
@@ -22,3 +29,4 @@ Feel free to ask any follow-up questions you deem necessary or beneficial per yo
 
 3. Are there any additional considerations for developing this plugin?
 `What do you think?`
+```

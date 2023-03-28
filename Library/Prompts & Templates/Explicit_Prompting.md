@@ -1,6 +1,6 @@
-# Explicit Prompt Template #
+# Explicit Prompting #
 
-Prompt engineering refers to crafting input prompts in a way that helps guide an AI language model, like ChatGPT, to provide more accurate, relevant, and useful responses. Here are some tips and examples for effective prompt engineering:
+Crafting prompts in a way that helps guide an AI language model, like ChatGPT, is how to get them to provide more accurate, relevant, and useful responses. Here are some tips and examples for effective prompting:
 
 1. Be specific and clear: Provide enough context or details to guide the AI toward the desired response.
 `Example: "Provide a summary of the 2021 United Nations Climate Change Conference, also known as COP26."`
@@ -27,12 +27,18 @@ Remember that AI models like ChatGPT can be sensitive to the phrasing and struct
 
 ## Prompt ##
 
+Here's a prompt template that takes the tips above into account.
+
+```
 "[Specific context] In the context of [topic or subject], please provide a [format: summary/list/comparison] of the [main aspect] while considering [constraints, if any]. Be sure to address [different perspectives/debiasing], and present the information in the style of [desired style/tone]. Finally, include relevant sources or citations to support the information."
+```
 
 ### Example Usage ###
 
 You can customize this template by filling in the relevant details for your specific question or topic. Here's an example of a customized prompt:
 
+```
 "In the context of renewable energy sources, please provide a comparison of the top 3 technologies, namely solar, wind, and hydropower, while considering their environmental impact and cost-effectiveness. Be sure to address the arguments for and against each technology, and present the information in a concise and objective manner. Finally, include relevant sources or citations to support the information."
 
 This prompt is specific, clear, requests a particular format, provides constraints, asks for debiasing, sets a desired style, and asks for sources. Adjusting the template to fit your needs can help guide ChatGPT to provide more accurate and relevant responses.
+```
