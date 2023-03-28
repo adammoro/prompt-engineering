@@ -1,4 +1,4 @@
-# Evaluate AI Performance for Topic: SEO #
+# Eval Questions for: SEO #
 
 Here's a set of test questions and prompts designed to evaluate an AI's current performance on the topic of Search Engine Optimization (SEO):
 

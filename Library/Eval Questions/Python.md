@@ -1,4 +1,4 @@
-# Evaluate AI Performance for Topic: Python #
+# Eval Questions for: Python #
 
 Here's a set of test questions and prompts designed to evaluate an AI's current performance on the topic of Python:
 
