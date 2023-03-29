@@ -16,6 +16,14 @@ Please provide a complete working example of a WordPress plugin based on my answ
 Feel free to ask any follow-up questions you deem necessary or beneficial per your understanding of WordPress development. Ensure the provided code is thoroughly debugged and validated for functionality. Please consider multiple perspectives and provide relevant sources, if possible.
 ```
 
+### OpenAI Settings ###
+
+- Model: GPT-4
+- Temperature: 0
+- Top P: 1
+- Frequency Penalty: 0
+- Presence Penalty: 0
+
 ### Example Usage ###
 
 Here's an example of how to start this prompt chain.
@@ -23,7 +31,7 @@ Here's an example of how to start this prompt chain.
 ```
 1. What is the name of your plugin?
 
-WPchat
+WP Debt Calculator
 
 2. What does your plugin do? Be specific and provide as much detail as possible. If you require a settings page, please mention it and list the necessary settings.
 
