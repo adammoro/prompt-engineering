@@ -20,7 +20,7 @@ Ask follow-up questions as needed per your understanding and experience with Wor
 
 ### Example Output
 
-The output is a bunch of code which wouldn't make sense to display here. Check out the GitHub link below to see a plugin this prompt created (with some debugging of course!): 
+The output is mostly code which wouldn't make sense to display here. Check out the GitHub link below to see a plugin this prompt created (with some debugging of course!): 
 
 `https://github.com/adammoro/wordpress-plugins/blob/main/ChatWP/chatwp/chatwp.php`
 
