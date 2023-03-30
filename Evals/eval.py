@@ -3,7 +3,7 @@ import requests
 import csv
 from config import settings
 
-# Set OpenAI API key
+# Set OpenAI API key (add key in config.py)
 api_key = settings['OPENAI_API_KEY']
 # Set API endpoint
 if settings['EVAL_TYPE'] == 'completions':
