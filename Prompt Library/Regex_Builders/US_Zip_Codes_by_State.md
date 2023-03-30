@@ -20,9 +20,9 @@ Repeat for all states.
 
 ## OpenAI Settings
 
-Model: gpt-4
-Temperature: 0
-Maximum Length/Tokens: 2,000~
-Top P: 1
-Frequency Penalty: 0
-Presence Penalty: 0
+- Model: gpt-4
+- Temperature: 0
+- Maximum Length/Tokens: 2,000~
+- Top P: 1
+- Frequency Penalty: 0
+- Presence Penalty: 0
