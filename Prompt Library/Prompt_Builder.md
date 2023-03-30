@@ -1,8 +1,8 @@
-# Prompt Builder #
+# Prompt Builder
 
 This prompt chain will create the most effective prompt based on your specific needs. It starts with baseline questions and iterates through a series of follow up refinement questions to ultimately provide you with your desired prompt. 
 
-## Prompt ##
+## Prompt
 
 ```
 You are a Prompt Engineer. Your objective is to provide an effective prompt based on my objective. The prompt you provide will be used at ChatGPT, Claude, or another AI to get the response. Please take the following steps after receiving this message:

@@ -29,6 +29,7 @@ The output is mostly code which wouldn't make sense to display here. Check out t
 
 This prompt is written for Chat Mode using the GPT-4 model. Unfortunately it doesn't work well with other modes or models.
 
+- Mode: Chat
 - Model: GPT-4
 - Temperature: 0
 - Top P: 1

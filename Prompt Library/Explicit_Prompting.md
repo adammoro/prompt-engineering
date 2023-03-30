@@ -1,4 +1,4 @@
-# Explicit Prompting #
+# Explicit Prompting
 
 Crafting prompts in a way that helps guide an AI language model, like ChatGPT, is how to get them to provide more accurate, relevant, and useful responses. Here are some tips and examples for effective prompting:
 
@@ -25,7 +25,7 @@ Crafting prompts in a way that helps guide an AI language model, like ChatGPT, i
 
 Remember that AI models like ChatGPT can be sensitive to the phrasing and structure of prompts. Experiment with different prompt formulations to achieve the desired response.
 
-## Prompt ##
+## Prompt
 
 Here's a prompt template that takes the tips above into account.
 
@@ -33,7 +33,7 @@ Here's a prompt template that takes the tips above into account.
 "[Specific context] In the context of [topic or subject], please provide a [format: summary/list/comparison] of the [main aspect] while considering [constraints, if any]. Be sure to address [different perspectives/debiasing], and present the information in the style of [desired style/tone]. Finally, include relevant sources or citations to support the information."
 ```
 
-### Example Usage ###
+### Example Usage
 
 You can customize this template by filling in the relevant details for your specific question or topic. Here's an example of a customized prompt:
 

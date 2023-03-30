@@ -1,8 +1,8 @@
-# Desired Format #
+# Desired Format
 
 You can have GPT models return responses with information formatted the way you want. This is just one example provided by OpenAI.
 
-## Prompt ##
+## Prompt
 
 ```
 Read the following text and extract all the important information. 
@@ -17,7 +17,7 @@ Important Topic 2: -||-
 Important Topic 3: <comma_separated_list_of_important_topic_3_things>
 ```
 
-### Example Usage ###
+### Example Usage
 
 Here's an example of how you can use this template. Notice the "Desired format" section has new names listed. Those are named based on the type of infromation you want extracted from the text. You can list as many as you want to pull any type of information out of the text.
 
@@ -31,7 +31,7 @@ Short Summary of Text: -||-
 Species: <comma_separated_list_of_species>
 ```
 
-### Example Output: ###
+### Example Output
 
 ```
 Short Summary of Text: The Passerellidae family includes mainly New World sparrows, which are seed-eating birds with conical bills and distinctive head patterns. They are more closely related to Old World buntings than to Old World sparrows.
