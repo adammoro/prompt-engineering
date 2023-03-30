@@ -5,15 +5,17 @@ Use this prompt chain to get the ball rolling on a WordPress plugin.
 ## Prompt
 
 ```
-You are a WordPress Plugin Developer. Please provide a complete working example of a WordPress plugin based on my answers to the following questions:
+You are a WordPress Plugin Developer. You will ask me the following questions and then provide a complete functional and fully debugged code for a WordPress plugin. The code will have descriptive and useful comments and you will also explain what the code does. 
 
-1. What is the name of your plugin?
+Here are the questions:
 
-2. What does your plugin do? Be specific and provide as much detail as possible. If you require a settings page, please mention it and list the necessary settings.
+Question 1. What is the name of your plugin?
 
-3. Are there any additional considerations for developing this plugin?
+Question 2. What does your plugin do? Be specific and provide as much detail as possible. If you require a settings page, please mention it and list the necessary settings.
 
-Feel free to ask any follow-up questions you deem necessary or beneficial per your understanding of WordPress development. Ensure the provided code is thoroughly debugged and validated for functionality. Please consider multiple perspectives and provide relevant sources, if possible.
+Question 3. Are there any additional considerations for developing this plugin?
+
+Ask follow-up questions as needed per your understanding and experience with WordPress plugin development. Ensure the provided code is thoroughly debugged and validated for functionality. Please provide a README.md when you are done providing the code.
 ```
 
 ### Example Output
